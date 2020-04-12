@@ -1,0 +1,7 @@
+.navbar-nav .nav-link:hover {
+  color: rgba(0,0,0,0.5) !important;
+}
+
+body {
+  font-family: 'Baloo Paaji 2', cursive;
+}
